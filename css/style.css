@@ -1,0 +1,28 @@
+:root {
+    --primary-color: #3AAFA9;
+    --secondary-color: #17252A;
+    --tertiary-color: #FEFFFF;
+}
+
+h1 {
+    color: var(--tertiary-color);
+    font-weight: 600;
+    text-shadow: #22212C 2px 2px 2px;
+}
+h2, h3 {
+    color: var(--secondary-color);
+}
+
+.team-heading {
+    background-color: var(--secondary-color);
+}
+
+.employee-card {
+    box-shadow: 0 0 10px var(--primary-color);
+    border-radius: 5px;
+}
+
+.card-header {
+    background-color: var(--primary-color);
+    color: var(--tertiary-color);
+}
