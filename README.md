@@ -2,15 +2,15 @@
 
 ## Description
 
-The Weather Dashboard is a dynamic web application that allows users to search for and view current and future weather conditions in multiple cities. Utilizing the 5 Day Weather Forecast API from OpenWeatherMap, this dashboard provides travelers with essential weather data to help plan their trips more effectively. The application features dynamically updated HTML and CSS, ensuring a responsive and intuitive user interface.
+The Team Profile Generator is a working Node.js command-line application that allows a user to take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
 
 ## Installation
 
-To install the README Generator, follow these steps:
+To install the Team Profile Generator, follow these steps:
 
 Clone the repository to your local machine using 
 ```
-git clone git@github.com:yourusername/11-professional-README-generator.git
+git clone git@github.com:yourusername/12-team-profile-generator.git
 ```
 Navigate into the project directory and run the below command to install the necessary dependencies.
 ```
@@ -23,12 +23,12 @@ After installation, invoke the application with below command from the command l
 ```
 node index.js
 ```
-Answer the prompted questions about your team. Upon completion, a `index.html` file will be dynamically generated.
+Answer the prompted questions about your team. Upon completion, a `team.html` file will be dynamically generated in the output folder.
 
 ![Team Profile Generator: Prompt](./images/Team-Profile-Generator-CL.png)
 
 ## Team Profile Generator Application
-The following images shows the Team Profile Generator displaying a working application.
+The following images shows the Team Profile Generator displaying a working application. [Click Here to View Deployed Application](https://adebayoadebisi.github.io/12-team-profile-generator/)
 
 ![Team Profile Generator: Screenshot](./images/Team-Profile-Generator-SS.html.png)
 
@@ -58,13 +58,10 @@ npm test
 - npm
 
 ## References
-[MDN Web Docs on JavaScript:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[npm Docs](https://docs.npmjs.com)
 
-[MDN Web Docs - Using Fetch for API Calls in JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+[Node.js Docs](https://nodejs.org/api/fs.html)
 
-[API Documentation | OpenWeatherMap - Documentation](https://openweathermap.org/api)
-
-[MDN Web Docs - Date and Time](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 ## License
 Licensed under [MIT License](LICENSE.md).
