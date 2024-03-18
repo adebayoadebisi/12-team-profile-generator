@@ -70,7 +70,7 @@ npm test
 Licensed under [MIT License](LICENSE.md).
 
 ## GitHub Repository
-URL: https://github.com/adebayoadebisi/08-weather-dashboard-challenge
+URL: https://github.com/adebayoadebisi/12-team-profile-generator
 
 ## Deployed Web Application
-URL: https://adebayoadebisi.github.io/08-weather-dashboard-challenge/
+URL: https://adebayoadebisi.github.io/12-team-profile-generator/
